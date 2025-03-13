@@ -52,5 +52,5 @@ else:
 st.sidebar.markdown("---")
 st.sidebar.markdown("## About")
 st.sidebar.write("""
-This is a simple chatbot built using Langchain and Streamlit. It uses groq to interact with the GPT-3.5-turbo model.
+This is a simple chatbot built using Langchain and Streamlit. It uses groq to interact with the llama3-70b-8192 model.
 """)
