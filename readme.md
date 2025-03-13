@@ -53,3 +53,8 @@ streamlit run filename.py
 - Enhance UI with custom styles
 - Support multiple language models
 - Add voice input and output support
+
+## Run without coding by remixing in replit
+- open Replit code Editor
+- Use this link https://replit.com/@shahdev10a13/Python?s=app#main.py
+- remix it and see the magic
